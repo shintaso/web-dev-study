@@ -1,5 +1,5 @@
 $(function(){
-    $('#tytle').hover(
+    $('#main-tytle').hover(
         function(){
             $('#sub-tytle').fadeIn();
 

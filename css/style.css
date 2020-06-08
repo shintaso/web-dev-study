@@ -1,7 +1,9 @@
 .container{
     width: auto;
-    background-color: black;
+    /* background-color: black; */
     height: 1000px;
+    background-image: url("../data/saigai_rolling_stock.png");
+    /* background-repeat: no-repeat; */
 
 }    
 h1{
