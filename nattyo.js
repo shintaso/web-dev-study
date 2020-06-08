@@ -1,11 +1,11 @@
 $(function(){
     $('#tytle').hover(
         function(){
-            $('#main-tytle').fadeIn();
+            $('#sub-tytle').fadeIn();
 
         },
         function(){
-            $('#main-tytle').fadeOut();
+            $('#sub-tytle').fadeOut();
 
         });
 
